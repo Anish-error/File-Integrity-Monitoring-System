@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File Integrity Monitor (Python)
 
 A beginner-friendly project that checks whether files have been modified, deleted, or added by comparing their SHA-256 hashes with a saved baseline.
@@ -54,3 +55,6 @@ File_Integrity_Monitor/
 2. Open `monitored_files/sample.txt` and change its text.
 3. Run the program again.
 4. Check the console, `integrity.log`, and `report.txt` for a `MODIFIED` result.
+=======
+# File-Integrity-Monitoring-System
+>>>>>>> 5c7896ff572caff254b977b28f3e49b40f180fc2

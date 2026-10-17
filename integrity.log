@@ -1,0 +1,22 @@
+2026-10-15 20:58:28 | INFO | Baseline created successfully. Run the program again after changing files in the monitored_files folder to detect changes.
+2026-10-15 21:01:38 | WARNING | MODIFIED: sample.txt
+2026-10-15 21:02:06 | WARNING | MODIFIED: sample.txt
+2026-10-15 21:02:06 | WARNING | NEW: User.txt
+2026-10-15 21:06:18 | WARNING | MODIFIED: sample.txt
+2026-10-15 21:06:18 | WARNING | NEW: User.txt
+2026-10-15 21:21:00 | WARNING | MODIFIED: sample.txt
+2026-10-15 21:21:00 | WARNING | NEW: User.txt
+2026-10-16 14:13:10 | WARNING | MODIFIED: sample.txt
+2026-10-16 14:13:10 | WARNING | NEW: User.txt
+2026-10-16 14:16:59 | INFO | Baseline created successfully. Run the program again after changing files in the monitored_files folder to detect changes.
+2026-10-16 14:17:06 | INFO | Baseline created successfully. Run the program again after changing files in the monitored_files folder to detect changes.
+2026-10-16 14:31:14 | INFO | Scan completed: no changes detected.
+2026-10-16 15:33:46 | INFO | Scan completed: no changes detected.
+2026-10-16 15:34:42 | INFO | Baseline created successfully. Run the program again after changing files in the monitored_files folder to detect changes.
+2026-10-16 15:35:53 | INFO | Baseline created successfully. Run the program again after changing files in the monitored_files folder to detect changes.
+2026-10-16 15:35:54 | INFO | Scan completed: no changes detected.
+2026-10-16 15:36:17 | WARNING | MODIFIED: Anish.txt
+2026-10-16 15:37:02 | WARNING | DELETED: Anish.txt
+2026-10-16 15:42:35 | WARNING | DELETED: Anish.txt
+2026-10-16 15:42:38 | WARNING | DELETED: Anish.txt
+2026-10-16 15:43:06 | WARNING | DELETED: Anish.txt
